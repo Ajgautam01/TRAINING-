@@ -48,13 +48,33 @@ Dicuss the Problems of assignment.
 
 Python Assignmet (list, tuples, Dictionaries).
 
-**List:-** Lists are used to store multiple items in a single variable.Lists are created using square brackets:
+**List:-** Lists are used to store multiple items in a single variable.Lists are created using square brackets
+
+mylist = ["apple", "banana", "cherry"]
+
+print(thisdict)
 
 **Tuples:-** Tuples are used to store multiple items in a single variable.A tuple is a collection which is ordered and unchangeable.Tuples are written with round brackets.
+
+mylist = ("apple", "banana", "cherry")
+
+print(thisdict)
 
 **Dictionaries:-** Dictionaries are used to store data values in key:value pairs.
 
 A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+
+thisdict = {
+
+  "brand": "Ford",
+  
+  "model": "Mustang",
+  
+  "year": 1964
+  
+}
+
+print(thisdict)
 
 :arrow_right: **Day-10 Date-23/7/22**
 
