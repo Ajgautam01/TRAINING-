@@ -13,7 +13,7 @@ install Andriod Studio FROM (https://developer.android.com/studio?gclid=Cj0KCQjw
 
 :arrow_right: **Day-3 Date-14/7/22**
 
-Wtaching Tutorial FROM YOUTUBE (https://www.youtube.com/watch?v=mXjZQX3UzOs&t=5638s)
+Wtaching Andriod Tutorial Tutorial FROM YOUTUBE (https://www.youtube.com/watch?v=mXjZQX3UzOs&t=5638s)
 
 :arrow_right: **Day-4 Date-15/7/22**
 
