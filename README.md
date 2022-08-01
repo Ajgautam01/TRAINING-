@@ -46,3 +46,7 @@ Dicussion on the Assignment
 :arrow_right: **Day-11 Date-24/7**
 
 Backend  django Assignmet (Function)
+
+:arrow_right: **Day-12 Date-25/7**
+
+Dicussion on the Assignment 
