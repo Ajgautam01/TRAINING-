@@ -9,7 +9,7 @@ and make bootable drive with help of RUFUS (you can download **RUFUS** FROM http
 
 :arrow_right: **Day-2 Date-13/7/22**
 
-Install Andriod Studio FROM (https://developer.android.com/studio?gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqACouwa6treFVPZ89R6Pza-WYC7GbJk5lyKkRyei0YVOnvcl_E7FTsaAix8EALw_wcB&gclsrc=aw.ds)
+Download & Install Andriod Studio FROM (https://developer.android.com/studio?gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqACouwa6treFVPZ89R6Pza-WYC7GbJk5lyKkRyei0YVOnvcl_E7FTsaAix8EALw_wcB&gclsrc=aw.ds)
 
 :arrow_right: **Day-3 Date-14/7/22**
 
