@@ -42,3 +42,7 @@ Backend  django Assignmet (list, tuples, Dictionaries)
 :arrow_right: **Day-10 Date-23/7**
 
 Dicussion on the Assignment 
+
+:arrow_right: **Day-11 Date-24/7**
+
+Backend  django Assignmet (Function)
