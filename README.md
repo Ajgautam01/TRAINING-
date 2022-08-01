@@ -43,6 +43,10 @@ Python Assignmet (list, tuples, Dictionaries)
 
 Dicussion on the Assignment 
 
+:arrow_right: **Day-11 Date-24/7/22**
+
+Follow installation steps of Nodejs FROM (https://www.tecmint.com/install-reactjs-on-ubuntu/) and install Nodejs in UBUNTU.
+
 :arrow_right: **Day-11 Date-27/7/22**
 
 Python Assignmet (Function)
