@@ -29,7 +29,7 @@ Done Some Tasks of C or C++
 
 :arrow_right: **Day-7 Date-20/7**
 
-Backend  django Assignmet (Perform Basic Python Concepts)
+Python Assignmet (Perform Basic Python Concepts)
 
 :arrow_right: **Day-8 Date-21/7**
 
@@ -37,7 +37,7 @@ Dicuss the Problems of assignment
 
 :arrow_right: **Day-9 Date-22/7**
 
-Backend  django Assignmet (list, tuples, Dictionaries)
+Python Assignmet (list, tuples, Dictionaries)
 
 :arrow_right: **Day-10 Date-23/7**
 
@@ -45,7 +45,7 @@ Dicussion on the Assignment
 
 :arrow_right: **Day-11 Date-24/7**
 
-Backend  django Assignmet (Function)
+Python Assignmet (Function)
 
 :arrow_right: **Day-12 Date-25/7**
 
