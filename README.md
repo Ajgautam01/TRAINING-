@@ -3,7 +3,7 @@
 
 Day 1 Date 12/7/22
 
-Follow the Guidelines for installation of UBUNTU  (https://phoenixnap.com/kb/install-ubuntu-20-04)
+Follow the Guidelines for installation of UBUNTU  (https://itsfoss.com/install-ubuntu/)
 Download Ubuntu ISO FROM (https://ubuntu.com/download/desktop)
 and make bootable drive with help of RUFUS (you can download RUFUS FROM https://rufus.ie/en/)  & start installation of UBUNTU LINUX
 
