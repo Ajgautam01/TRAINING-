@@ -22,13 +22,15 @@ Make First App Unit Converter.
 :arrow_right: **Day-5 Date-18/7/22**
 
 Starting  Python. 
+
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
 It is used for:
 
-web development (server-side),
-software development,
-mathematics,
-system scripting
+- web development (server-side),
+- software development,
+- mathematics,
+- system scripting
 
 :arrow_right: **Day-6 Date-19/7/22**
 
