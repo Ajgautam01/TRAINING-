@@ -48,6 +48,14 @@ Dicuss the Problems of assignment.
 
 Python Assignmet (list, tuples, Dictionaries).
 
+**List:-** Lists are used to store multiple items in a single variable.Lists are created using square brackets:
+
+**Tuples:-** Tuples are used to store multiple items in a single variable.A tuple is a collection which is ordered and unchangeable.Tuples are written with round brackets.
+
+**Dictionaries:-** Dictionaries are used to store data values in key:value pairs.
+
+A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+
 :arrow_right: **Day-10 Date-23/7/22**
 
 Dicussion on the Assignment. 
@@ -56,14 +64,18 @@ Dicussion on the Assignment.
 
 Follow installation steps of Reactjs FROM (https://www.tecmint.com/install-reactjs-on-ubuntu/) and install Reactjs in UBUNTU.
 
-:arrow_right: **Day-13 Date-26/7/22**
+:arrow_right: **Day-12 Date-26/7/22**
 
 Discussion on  Python work.  
 
-:arrow_right: **Day-12 Date-27/7/22**
+:arrow_right: **Day-13 Date-27/7/22**
 
 Python Assignmet (Function).
 
-:arrow_right: **Day-13 Date-31/7/22**
+:arrow_right: **Day-14 Date-31/7/22**
 
 Dicussion on the Assignment. 
+
+:arrow_right: **Day-15 Date-1/8/22**
+
+Watch Python3 Tutorials FROM (https://www.youtube.com/watch?v=cBQ4c1IQJSE)
