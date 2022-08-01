@@ -11,42 +11,42 @@ and make bootable drive with help of RUFUS (you can download RUFUS FROM https://
 
 install Andriod Studio FROM (https://developer.android.com/studio?gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqACouwa6treFVPZ89R6Pza-WYC7GbJk5lyKkRyei0YVOnvcl_E7FTsaAix8EALw_wcB&gclsrc=aw.ds)
 
-:arrow_right: **Day-3 Date-14/7**
+:arrow_right: **Day-3 Date-14/7/22**
 
 Wtaching Tutorial FROM YOUTUBE (https://www.youtube.com/watch?v=mXjZQX3UzOs&t=5638s)
 
-:arrow_right: **Day-4 Date-15/7**
+:arrow_right: **Day-4 Date-15/7/22**
 
 Make First App Unit Converter  
 
-:arrow_right: **Day-5 Date-18/7**
+:arrow_right: **Day-5 Date-18/7/22**
 
 Starting  Python 
 
-:arrow_right: **Day-6 Date-19/7**
+:arrow_right: **Day-6 Date-19/7/22**
 
 Done Some Tasks of C or C++
 
-:arrow_right: **Day-7 Date-20/7**
+:arrow_right: **Day-7 Date-20/7/22**
 
 Python Assignmet (Perform Basic Python Concepts)
 
-:arrow_right: **Day-8 Date-21/7**
+:arrow_right: **Day-8 Date-21/7/22**
 
 Dicuss the Problems of assignment
 
-:arrow_right: **Day-9 Date-22/7**
+:arrow_right: **Day-9 Date-22/7/22**
 
 Python Assignmet (list, tuples, Dictionaries)
 
-:arrow_right: **Day-10 Date-23/7**
+:arrow_right: **Day-10 Date-23/7/22**
 
 Dicussion on the Assignment 
 
-:arrow_right: **Day-11 Date-24/7**
+:arrow_right: **Day-11 Date-24/7/22**
 
 Python Assignmet (Function)
 
-:arrow_right: **Day-12 Date-25/7**
+:arrow_right: **Day-12 Date-25/7/22**
 
 Dicussion on the Assignment 
