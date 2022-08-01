@@ -23,7 +23,7 @@ Make First App Unit Converter.
 
 Starting  Python. 
 
-Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+**Defination of Python :-** It was created by Guido van Rossum, and released in 1991.Python is a general-purpose, interpreted, high-level programming language popularly used for website development, data analytics and automation.
 
 It is used for:
 
