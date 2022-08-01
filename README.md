@@ -47,10 +47,10 @@ Dicussion on the Assignment
 
 Follow installation steps of Reactjs FROM (https://www.tecmint.com/install-reactjs-on-ubuntu/) and install Reactjs in UBUNTU.
 
-:arrow_right: **Day-11 Date-27/7/22**
+:arrow_right: **Day-12 Date-27/7/22**
 
 Python Assignmet (Function)
 
-:arrow_right: **Day-12 Date-31/7/22**
+:arrow_right: **Day-13 Date-31/7/22**
 
 Dicussion on the Assignment 
