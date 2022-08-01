@@ -21,11 +21,11 @@ Make First App Unit Converter
 
 :arrow_right: **Day-5 Date-18/7**
 
-Done Some Tasks of C or C++
+Starting  Python 
 
 :arrow_right: **Day-6 Date-19/7**
 
-Starting  Python
+Done Some Tasks of C or C++
 
 :arrow_right: **Day-7 Date-20/7**
 
