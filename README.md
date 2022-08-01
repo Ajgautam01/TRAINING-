@@ -3,17 +3,17 @@
 
 :arrow_right: **Day-1 Date-12/7/22**
 
-Follow the Guidelines for installation of UBUNTU  (https://itsfoss.com/install-ubuntu/)
+Follow the Guidelines for installation of **UBUNTU**  (https://itsfoss.com/install-ubuntu/)
 Download Ubuntu ISO FROM (https://ubuntu.com/download/desktop)
-and make bootable drive with help of RUFUS (you can download RUFUS FROM https://rufus.ie/en/)  & start installation of UBUNTU LINUX
+and make bootable drive with help of RUFUS (you can download **RUFUS** FROM https://rufus.ie/en/)  & start installation of UBUNTU LINUX
 
 :arrow_right: **Day-2 Date-13/7/22**
 
-install Andriod Studio FROM (https://developer.android.com/studio?gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqACouwa6treFVPZ89R6Pza-WYC7GbJk5lyKkRyei0YVOnvcl_E7FTsaAix8EALw_wcB&gclsrc=aw.ds)
+Install Andriod Studio FROM (https://developer.android.com/studio?gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqACouwa6treFVPZ89R6Pza-WYC7GbJk5lyKkRyei0YVOnvcl_E7FTsaAix8EALw_wcB&gclsrc=aw.ds)
 
 :arrow_right: **Day-3 Date-14/7/22**
 
-Wtaching Andriod Studio Tutorial FROM YOUTUBE (https://www.youtube.com/watch?v=mXjZQX3UzOs&t=5638s).
+Watching Andriod Studio Tutorial FROM YOUTUBE (https://www.youtube.com/watch?v=mXjZQX3UzOs&t=5638s).
 
 :arrow_right: **Day-4 Date-15/7/22**
 
@@ -71,6 +71,8 @@ Discussion on  Python work.
 :arrow_right: **Day-13 Date-27/7/22**
 
 Python Assignmet (Function).
+
+A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can return data as a result.
 
 :arrow_right: **Day-14 Date-31/7/22**
 
