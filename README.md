@@ -38,7 +38,7 @@ Done Some Tasks of C or C++
 
 :arrow_right: **Day-7 Date-20/7/22**
 
-Python Assignmet (Perform Basic Python Concepts).
+Python Assignment (Perform Basic Python Concepts).
 
 :arrow_right: **Day-8 Date-21/7/22**
 
@@ -46,7 +46,7 @@ Dicuss the Problems of assignment.
 
 :arrow_right: **Day-9 Date-22/7/22**
 
-Python Assignmet (list, tuples, Dictionaries).
+Python Assignment (list, tuples, Dictionaries).
 
 **List:-** Lists are used to store multiple items in a single variable.Lists are created using square brackets
 
@@ -90,7 +90,7 @@ Discussion on  Python work.
 
 :arrow_right: **Day-13 Date-27/7/22**
 
-Python Assignmet (Function).
+Python Assignment (Function).
 
 A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can return data as a result.
 
