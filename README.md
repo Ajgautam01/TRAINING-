@@ -43,10 +43,10 @@ Python Assignmet (list, tuples, Dictionaries)
 
 Dicussion on the Assignment 
 
-:arrow_right: **Day-11 Date-24/7/22**
+:arrow_right: **Day-11 Date-27/7/22**
 
 Python Assignmet (Function)
 
-:arrow_right: **Day-12 Date-25/7/22**
+:arrow_right: **Day-12 Date-31/7/22**
 
 Dicussion on the Assignment 
