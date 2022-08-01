@@ -4,6 +4,7 @@
 Day 1 Date 12/7/22
 
 Dual Boot the system & install Ubuntu in System FROM (https://ubuntu.com/download/desktop)
+Download ISO files FROM the given links and make bootable drive with help of RUFUS (you can download rufus FROM https://rufus.ie/en/)  & start installation of UBUNTU LINUX
 
 Day 2 Date 13/7
 
