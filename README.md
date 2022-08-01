@@ -25,7 +25,7 @@ Done Some Tasks of C or C++
 
 :arrow_right: **Day-6 Date-19/7**
 
-Starting Django Python
+Starting  Python
 
 :arrow_right: **Day-7 Date-20/7**
 
