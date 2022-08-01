@@ -13,4 +13,32 @@ install Andriod Studio FROM (https://developer.android.com/studio?gclid=Cj0KCQjw
 
 :arrow_right: **Day-3 Date-14/7**
 
-Wtaching Tutorial For Documentation and make First app 
+Wtaching Tutorial FROM YOUTUBE (https://www.youtube.com/watch?v=mXjZQX3UzOs&t=5638s)
+
+:arrow_right: **Day-4 Date-15/7**
+
+Make First App Unit Converter  
+
+:arrow_right: **Day-5 Date-18/7**
+
+Done Some Tasks of C or C++
+
+:arrow_right: **Day-6 Date-19/7**
+
+Starting Django Python
+
+:arrow_right: **Day-7 Date-20/7**
+
+Backend  django Assignmet (Perform Basic Python Concepts)
+
+:arrow_right: **Day-8 Date-21/7**
+
+Dicuss the Problems of assignment
+
+:arrow_right: **Day-9 Date-22/7**
+
+Backend  django Assignmet (list, tuples, Dictionaries)
+
+:arrow_right: **Day-10 Date-23/7**
+
+Dicussion on the Assignment 
