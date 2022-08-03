@@ -112,6 +112,6 @@ Watch Python3 Tutorials FROM (https://www.youtube.com/watch?v=cBQ4c1IQJSE)
 
 Perform some Task of Python3
 
-:arrow_right: **Day-1 Date-2/8/22**
+:arrow_right: **Day-17 Date-2/8/22**
 
 Perform Some Task of Python3 
