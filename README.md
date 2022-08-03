@@ -107,3 +107,11 @@ Dicussion on the Assignment.
 :arrow_right: **Day-15 Date-1/8/22**
 
 Watch Python3 Tutorials FROM (https://www.youtube.com/watch?v=cBQ4c1IQJSE)
+
+:arrow_right: **Day-16 Date-2/8/22**
+
+Perform some Task of Python3
+
+:arrow_right: **Day-1 Date-2/8/22**
+
+Perform Some Task of Python3 
